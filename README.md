@@ -1,4 +1,7 @@
-## Hi there 👋
+<!-- >
+GitHub DenverCoder1 provides this. Thank you <3>
+</!-->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
 
 <!--
 **ImeeeeAndYoYu/ImeeeeAndYoYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
